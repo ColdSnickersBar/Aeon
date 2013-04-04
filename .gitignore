@@ -1,0 +1,10 @@
+#MacOSX
+.DS_Store
+
+#IntelliJ
+.idea/
+
+#Output
+out/
+bin/
+
